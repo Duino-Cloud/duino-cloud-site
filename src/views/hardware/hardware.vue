@@ -1,6 +1,6 @@
 <template>
     <div>
-    <title>Galactiq | Hardware</title>
+    <title>Duco Cloud | Hardware</title>
       <section class="content-row content-row-gray">
         <div class="container">
           <header class="content-header">
@@ -11,24 +11,14 @@
           <div class="column-row align-center-bottom" >
             <div
               class="column-33 gamebg gamebg-game"
-              @click="open('/hardware/game-hardware/')"
+              @click="open('/hardware/duco-hardware/')"
             >
               <div class="bluebg"></div>
               <div class="colum-game-content">
-                <div class="content-game-title">Game Hardware</div>
+                <div class="content-game-title">Duco Hardware</div>
                 </div>
               </div>
-  
-            <div
-              class="column-33 gamebg gamebg-vps"
-              @click="open('/hardware/vps-hardware/')"
-            >
-              <div class="bluebg"></div>
-              <div class="colum-game-content">
-                <div class="content-game-title">VPS Hardware</div>
-              </div>
             </div>
-          </div>
         </div>
       </section>
     </div>

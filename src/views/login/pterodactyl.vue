@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | Pterodactyl</title>
+      <title>Duco Cloud | Pterodactyl</title>
         <section class="content-row content-gamebanner">
       <div class="container">
         <header
@@ -28,7 +28,7 @@ export default {
     },
   mounted() {
     setTimeout(() => {
-    window.location.href = "https://panel.galactiq.net";    
+    window.location.href = "https://panel.duinocloud.com";    
     }, 2000);
   },
 

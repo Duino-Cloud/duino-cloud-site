@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | Billing</title>
+      <title>Duco Cloud | Billing</title>
         <section class="content-row content-gamebanner">
       <div class="container">
         <header
@@ -28,7 +28,7 @@ export default {
     },
   mounted() {
     setTimeout(() => {
-    window.location.href = "https://console.galactiq.net";    
+    window.location.href = "https://console.duinocloud.com";    
     }, 2000);
   },
 

@@ -25,7 +25,7 @@
             >
               <div class="bluebg"></div>
               <div class="colum-game-content">
-                <div class="content-game-title">Game Panel</div>
+                <div class="content-game-title">Mining Panel</div>
               </div>
             </div>
           </div>

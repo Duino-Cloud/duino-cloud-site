@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | DE</title>
+      <title>Galactiq | US</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header
@@ -10,7 +10,7 @@
               Hardware
             </h1>
             <p>
-              This is the hardware list for all of our VPS Nodes in Germany
+              This is the hardware list for all of our duco nodes in America
             </p>
           </header>
         </div>
@@ -19,29 +19,45 @@
         <div class="container">
           <header class="content-header">
             <h2>
-              VPS Hardware
+              Duco Cloud Hardware
             </h2>
           </header>
           <div class="column-row align-center-bottom">
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                    <img src="https://cdn.galactiq.net/images/logos/amd-green.svg" alt="" height="64px">
+                  <img src="https://cdn.galactiq.net/images/logos/intel.svg" alt="" height="64px">
                   <h4 style="margin-top: 20px">
-                    VPS-DE-1
+                    US-1
                   </h4>
                   <small
-                    >Frankfurt (DE)</small
+                    >Oklahoma (US)</small
                   >
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>Coming Soon</strong></li>
-                    <li><strong></strong> AMD Ryzen™ 9 7950X3D</li>
-                    <li><strong>DDR5</strong> RAM</li>
-                    <li>Storage Type:<strong> NVME</strong></li>
-                    <li>Upstream: <strong> 1 Gbit/s</strong></li>
-                    <li>Downstream: <strong> 1 Gbit/s</strong></li>
+                    <li><strong>2x</strong> Intel® Xeon® E5620</li>
+                    <li><strong>DDR3</strong> RAM</li>
+                  </ul>
+                  <ul>
+                  </ul>
+                </div>
+              </div>
+            </div>
+  
+            <div class="column-33">
+              <div class="product-box">
+                <div class="product-header">
+                  <img src="https://cdn.galactiq.net/images/logos/intel.svg" alt="" height="64px">
+                  <h4 style="margin-top: 20px">
+                    US-2
+                  </h4>
+                  <small>Nevada (US)</small>
+                </div>
+                <div class="product-features">
+                  <ul>
+                    <li><strong>2x</strong> Intel® Xeon™ E5-2667 v2</li>
+                    <li><strong>DDR3</strong> RAM</li>
                   </ul>
                   <ul>
                   </ul>
@@ -66,3 +82,4 @@
     margin-left: 0px !important;
   }
   </style>
+  

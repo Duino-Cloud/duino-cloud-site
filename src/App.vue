@@ -8,46 +8,21 @@
     <header id="header" class="header-dynamic header-shadow-scroll">
       <div class="container">
         <router-link class="logo" to="/">
-          <img src="https://cdn.galactiq.net/images/logos/galactiq/galactiq-banner-no-subtitle-transparent.png" alt="" height="120px" />
+          <img src="https://cdn.crewcraft.gq/duino/Untitled-1.png" alt="" height="120px" />
         </router-link>
         <nav>
           <ul class="nav-primary">
             <li>
-              <router-link to="/hosting/games">Game Hosting</router-link>
+              <router-link to="/hosting/duino">DUCO Mining</router-link>
             </li>
             <li>
-              <router-link to="/hosting/vps">Cloud</router-link>
-            </li>
-            <li>
-              <router-link to="/contact/bare-metal">Dedicated Servers</router-link>
-            </li>  
-            <li>
-              <router-link to="/hosting/discord">Discord Bots</router-link>
-            </li>
-            <li>
-              <a style="cursor: pointer">Galactiq</a>
+              <a style="cursor: pointer">DUCO CLOUD</a>
               <ul>
                 <li>
                   <router-link to="/hardware">Hardware</router-link>
-                </li>
-                <li>
-                  <router-link to="/network">Network</router-link>
-                </li>             
-                <li>
-                  <router-link to="/partners">Partners</router-link>
-                </li>
+                </li>            
                 <li>
                   <router-link to="/team">Team</router-link>
-                </li>
-
-                <li>
-                  <router-link to="/blogs">Blog</router-link>
-                </li>
-                <li>
-                  <a href="https://merch.galactiq.net" target="_blank">Merch</a>
-                </li>
-                <li>
-                  <a href="https://forms.gle/C6Gn74opDjKXUPFc6" target="_blank">Careers</a>
                 </li>
               </ul>                          
             </li>
@@ -64,14 +39,8 @@
                 Us</a
               >
             </li>
-             <li> 
-              <a href="https://status.galactiq.net/" target="_blank"
-                ><i class="fa-solid fa-signal-bars-good icon-left" style="margin-right: 0px"></i>Service
-                Status</a
-              >
-            </li>
             <li>
-              <a href="https://discord.gg/MEMzSkeTTc" target="_blank">
+              <a href="https://discord.gg/MVaJW8rqmH" target="_blank">
                 <i class="fab fa-discord icon-left"></i>Join Discord Server</a
               >
             </li>
@@ -86,123 +55,19 @@
           <div class="column-row">
             <div class="column-33">
               <h5>
-                <img src="https://cdn.galactiq.net/images/logos/galactiq-banner-no-subtitle-transparent.png" alt="" width="200px">
+                <img src="https://cdn.crewcraft.gq/duino/Untitled-1.png" alt="" width="200px">
               </h5>
               <p>
-                Galactiq has been providing Minecraft servers and discord bots 
-                to small and big customers since 2019. We want
-                to give everyone the opportunity to not have to worry about
-                service quality and pricing and instead focus on the growth of
-                their community.
+                DucoCloud has been providing Duco Mining hardware since 2023 and aims
+                to allow people to purchase more and more products with DUCO.
               </p>
-            </div>
-            <div class="column-75">
-              <div class="column-row align-right-top">
-                <div class="column-25">
-                  <h5>
-                    Products and Services
-                  </h5>
-                  <ul>
-                    <li>
-                      <router-link to="/hosting/minecraft/"
-                        >Minecraft</router-link
-                      >
-                    </li>
-                    <li>
-                      <router-link to="/hosting/vps">Cloud</router-link>
-                    </li>  
-                    <li>
-                      <router-link to="/hosting/discord"
-                        >Discord Bots</router-link
-                      >
-                    </li>
-                    <li>
-                      <router-link to="/hosting/steam/"
-                        >Steam Servers</router-link
-                      >
-                    </li>
-                    <li>
-                      <router-link to="/hosting/more/"
-                        >More</router-link
-                      >
-                    </li>
-                  </ul>
-                </div>
-                <div class="column-25">
-                  <h5>
-                    Resources
-                  </h5>
-                  <ul>
-                    <li>
-                      <router-link to="/terms-of-service"
-                        >Terms of Service</router-link
-                      >
-                    </li>
-                    <li>
-                      <router-link to="/privacy-policy"
-                        >Privacy Policy</router-link
-                      >
-                    </li>
-                    <li>
-                        <a href="https://cdn.galactiq.net/partner-resources/assets.zip" target="_blank">
-                        <i class=""></i>Creator Resources</a>
-                    </li>
-                    <li>
-                      <router-link to="/education"
-                        >Education</router-link
-                      >
-                    </li>
-                    <li>
-                      <router-link to="/npo">Non-Profit</router-link>
-                    </li>
-                    <li>
-                      <router-link to="/contact">Contact</router-link>
-                    </li>
-                  </ul>
-                </div>
-                <div class="column-25">
-                  <h5>
-                    Tools
-                  </h5>
-                  <ul>
-                    <li>
-                      <router-link to="/redirects/paste">Paste Server</router-link>
-                    </li>
-                    <li>
-                      <router-link to="/server-jars">Server Jars</router-link>
-                    </li>
-                  </ul>
-                </div>
-                <div class="column-25">
-                  <h5>
-                    Socials
-                  </h5>
-                  <ul>
-                    <li>
-                      <a href="https://www.youtube.com/@galactiqnetwork5124">YouTube <i class="fa-brands fa-youtube"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://www.tiktok.com/@galactiq_network">TikTok <i class="fa-brands fa-tiktok"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://www.instagram.com/galactiq_network/">Instagram <i class="fa-brands fa-instagram"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://twitter.com/Galactiq_Net">Twitter <i class="fa-brands fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="https://www.trustpilot.com/evaluate/galactiq.net" target="_blank">Review Us <i class="fa-regular fa-star-sharp-half-stroke"></i></a>
-                    </li>    
-                  </ul>
-                </div>
-              </div>
             </div>
           </div>
         </div>
       </section>
       <section class="footer-secondary">
         <div class="container">
-          <p>Copyright 2023 &copy; Galactiq<br /></p>
+          <p>Copyright 2023 &copy; Duco Cloud<br /></p>
         </div>
       </section>
     </footer>
@@ -212,12 +77,6 @@
 <style></style>
 
 <script>
-import Tawk from "vue-tawk";
-import Vue from "vue";
-
-Vue.use(Tawk, {
-  tawkSrc: "https://embed.tawk.to/605930b8f7ce18270932d0fa/1f1e6ck72",
-});
 
 export default {
   watch: {
@@ -280,26 +139,26 @@ export default {
 
 <style>
 #footer {
-  background-color: #0e0f0f;
+  background-color: #0d0d2e;
 }
 .content-slider {
   background-color: #19212c;
 }
 
 .content-row {
-  background-color: #111827 !important;
+  background-color: #07071a !important;
   color: #a39e94;
 }
 .content-row-gray {
-  background-color: #111827 !important;
+  background-color: #07071a !important;
 }
 .content-row-color {
-  background-color: #111827 !important;
+  background-color: #07071a !important;
 }
 
 .product-box {
-  background-color: #1F2937 !important;
-  border-color: #00b07800;
+  background-color: #080829 !important;
+  border-color: #00B4D8;
   color: #E5E7EB;
   transition: all .15s ease-in-out;
 }
@@ -315,14 +174,14 @@ export default {
   width: 22px;
   height: 22px;
   border-radius: 50%;
-  background: #10B981;
-  box-shadow: 0 0 0 #059669;
+  background: #00B4D8;
+  box-shadow: 0 0 0 #00B4D8;
   animation: pulse 2s infinite;
 }
 
 @-webkit-keyframes pulse {
   0% {
-    -webkit-box-shadow: 0 0 0 0 #059669;
+    -webkit-box-shadow: 0 0 0 0 #00B4D8;
   }
   70% {
       -webkit-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
@@ -333,8 +192,8 @@ export default {
 }
 @keyframes pulse {
   0% {
-    -moz-box-shadow: 0 0 0 0 #059669;
-    box-shadow: 0 0 0 0 #059669;
+    -moz-box-shadow: 0 0 0 0 #00B4D8;
+    box-shadow: 0 0 0 0 #00B4D8;
   }
   70% {
       -moz-box-shadow: 0 0 0 10px rgba(204,169,44, 0);
@@ -353,7 +212,7 @@ export default {
   border-color: #00b07800 !important;
 }
 .product-box .product-popular {
-  background-color: #10B981 !important;
+  background-color: #00B4D8 !important;
 }
 .tab-group.tab-group-switch-style > ul {
   background-color: #0C111B !important;
@@ -362,8 +221,8 @@ export default {
   background-color: #111827 !important;
 }
 .tab-group.tab-group-switch-style > ul li.active {
-  background-color: #059669 !important;
-  box-shadow: 1px 5px 5px #046647;
+  background-color: #00B4D8 !important;
+  box-shadow: 1px 5px 5px #0077B6;
 }
 table caption {
   background-color: #059669 !important;
@@ -375,17 +234,17 @@ table {
 }
 table tr td,
 table tr th {
-  border-color: #131313 !important;
+  border-color: #03045E !important;
 }
 tbody {
   background-color: #181a1b !important;
 }
 th {
-  background-color: #0e0f0f !important;
+  background-color: #03045E !important;
   color: white !important;
 }
 .tab-group.tab-group-switch-style > ul {
-  border-color: #131313 !important;
+  border-color: #00B4D8 !important;
 }
 #content {
   background-color: #181a1b !important;

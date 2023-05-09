@@ -1,16 +1,16 @@
 <template>
     <div>
-      <title>Galactiq | DE</title>
+      <title>Duco Cloud | Team</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header
             class="content-header content-gamename content-header-small content-header-uppercase"
           >
             <h1>
-              Hardware
+              Team
             </h1>
             <p>
-              This is the hardware list for all of our game nodes in Germany
+              The Duco Cloud Team
             </p>
           </header>
         </div>
@@ -18,29 +18,32 @@
       <section class="content-row content-row-gray">
         <div class="container">
           <header class="content-header">
-            <h2>
-              Hardware
-            </h2>
           </header>
           <div class="column-row align-center-bottom">
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                    <img src="https://cdn.galactiq.net/images/logos/intel.svg" alt="" height="64px">
+                  <img src="https://cdn.crewcraft.gq/duino/duco-alt.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
-                    DE-1
+                    Duco Cloud Team
                   </h4>
-                  <small
-                    >Falkenstein (DE)</small
-                  >
+                </div>
+            </div>
+          </div>
+          </div>
+
+          <div class="column-row align-center-bottom">
+            <div class="column-33">
+              <div class="product-box">
+                <div class="product-header">
+                  <img src="https://cdn.galactiq.net/images/team/pengu.png" alt="" width="100px" style="margin-top: calc((64px - 23.73px) / 2); margin-bottom: calc((64px - 23.73px) / 2)">
+                  <h4 style="margin-top: 20px">
+                    Max
+                  </h4>
+                  <small>Dev</small>
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong></strong> Intel® Xeon® E3-1275v6</li>
-                    <li><strong>DDR4</strong> RAM</li>
-                    <li>Storage Type:<strong> NVME</strong></li>
-                    <li>Upstream: <strong> 1 Gbit/s</strong></li>
-                    <li>Downstream: <strong> 1 Gbit/s</strong></li>
                   </ul>
                   <ul>
                   </ul>
@@ -51,21 +54,14 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                    <img src="https://cdn.galactiq.net/images/logos/ampere.svg" alt="" height="64px">
+                  <img src="https://cdn.crewcraft.gq/duino/team/6ffac44305f42a9f49a227d217c7262c.webp" alt="" width="100px" style="margin-top: calc((64px - 23.73px) / 2); margin-bottom: calc((64px - 23.73px) / 2)">
                   <h4 style="margin-top: 20px">
-                    DE-2
+                    GreenBean
                   </h4>
-                  <small
-                    >Frankfurt (DE)</small
-                  >
+                  <small>Dev</small>
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong></strong> Ampere® Altra® Q80-30</li>
-                    <li><strong>DDR4</strong> RAM</li>
-                    <li>Storage Type:<strong> NVME</strong></li>
-                    <li>Upstream: <strong> 2.5 Gbit/s</strong></li>
-                    <li>Downstream: <strong> 2.5 Gbit/s</strong></li>
                   </ul>
                   <ul>
                   </ul>
@@ -80,7 +76,7 @@
   
   <style scoped>
   .content-gamebanner {
-    background: url(https://cdn.galactiq.net/images/game-backdrops/hardware.png) center center no-repeat;
+    background: url(https://cdn.galactiq.net/images/banners/linesbg.png) center center no-repeat;
     background-size: cover;
     height: 250px;
     color: white;
@@ -90,3 +86,4 @@
     margin-left: 0px !important;
   }
   </style>
+  
