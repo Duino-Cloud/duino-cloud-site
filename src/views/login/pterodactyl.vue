@@ -28,7 +28,7 @@ export default {
     },
   mounted() {
     setTimeout(() => {
-    window.location.href = "https://panel.duinocloud.com";    
+    window.location.href = "https://panel.ducocloud.com";    
     }, 2000);
   },
 
