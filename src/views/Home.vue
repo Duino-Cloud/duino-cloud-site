@@ -1,6 +1,6 @@
 <template>
   <section id="content">
-    <title>Galactiq | Hosting</title>
+    <title>Duco Cloud | Hosting</title>
     <!-- Notification -->
 
     <!-- Content Row -->

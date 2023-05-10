@@ -8,7 +8,7 @@
     <header id="header" class="header-dynamic header-shadow-scroll">
       <div class="container">
         <router-link class="logo" to="/">
-          <img src="https://cdn.crewcraft.gq/duino/Untitled-1.png" alt="" height="120px" />
+          <img src="https://ducocloud.com/assets/ducocloud.png" alt="" height="120px" />
         </router-link>
         <nav>
           <ul class="nav-primary">
@@ -55,7 +55,7 @@
           <div class="column-row">
             <div class="column-33">
               <h5>
-                <img src="https://cdn.crewcraft.gq/duino/Untitled-1.png" alt="" width="200px">
+                <img src="https://ducocloud.com/assets/ducocloud.png" alt="" width="200px">
               </h5>
               <p>
                 DucoCloud has been providing Duco Mining hardware since 2023 and aims

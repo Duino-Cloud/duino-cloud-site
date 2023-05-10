@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | US</title>
+      <title>Duco Cloud | US</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header

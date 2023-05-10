@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | Discord</title>
+      <title>Duco Cloud | Discord</title>
         <section class="content-row content-gamebanner">
       <div class="container">
         <header

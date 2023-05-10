@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | Duino</title>
+      <title>Duco Cloud | Duino</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header
@@ -10,7 +10,7 @@
               Duino Cloud
             </h1>
             <p>
-              Host your discord bot on powerful hardware to make sure it always gets the job done
+              Host your Duco Miner on our hardware for an easier mining experience!
             </p>
           </header>
         </div>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <title>Galactiq | More</title>
+    <title>Duco Cloud | More</title>
     <section class="content-row content-row-gray">
       <div class="container">
         <header class="content-header">

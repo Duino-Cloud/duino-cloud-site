@@ -1,6 +1,6 @@
 <template>
   <div>
-    <title>Galactiq | Terms</title>
+    <title>Duco Cloud | Terms</title>
     <section class="content-row content-row-color content-row-clouds">
       <div class="container">
         <header

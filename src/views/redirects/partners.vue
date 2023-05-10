@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Galactiq | Partner Sign Up</title>
+      <title>Duco Cloud | Partner Sign Up</title>
         <section class="content-row content-gamebanner">
       <div class="container">
         <header
