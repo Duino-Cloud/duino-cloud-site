@@ -16,6 +16,16 @@ const routes = [
     name: "Duino",
     component: () => import("../views/more/hosting.duino.vue"),
   },
+  {
+    path: "/hosting/more/",
+    name: "More",
+    component: () => import("../views/more/more.vue"),
+  },
+  //{
+    //path: "/hosting/discord/",
+    //name: "Discord Bot",
+    //component: () => import("../views/hosting/hosting.discord.vue"),
+  //},
   //@ ducocloud
   {
     path: "/terms-of-service",
@@ -36,7 +46,7 @@ const routes = [
     path: "/team",
     name: "Team",
     component: () => import("../views/ducocloud/team.vue"),
-  },   
+  },
   //@ Login
   {
     path: "/login",
@@ -95,6 +105,22 @@ const routes = [
     path: "/redirects/partnerships",
     name: "Partnerships",
     component: () => import("../views/redirects/partners.vue")
+  },
+  //@ Login
+  {
+    path: "/pages/pool-hosting",
+    name: "Pool Hosting",
+    component: () => import("../views/pages/pool-hosting.vue")
+  },
+  {
+    path: "/pages/server-import",
+    name: "Server Import",
+    component: () => import("../views/pages/server-import.vue")
+  },
+  {
+    path: "/pages/dedicated-miner",
+    name: "Dedicated Miner",
+    component: () => import("../views/pages/dedicated-miner.vue")
   },
   //@ Errors
   {

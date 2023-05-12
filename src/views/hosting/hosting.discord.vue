@@ -1,16 +1,16 @@
 <template>
     <div>
-      <title>Duco Cloud | Duino</title>
+      <title>Duco Cloud | Discord Bot</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header
             class="content-header content-gamename content-header-small content-header-uppercase"
           >
             <h1>
-              Duino Cloud
+              Discord Bot
             </h1>
             <p>
-              Host your Duco Miner on our hardware for an easier mining experience!
+                Host your discord bot on powerful hardware to make sure it always gets the job done
             </p>
           </header>
         </div>
@@ -19,7 +19,7 @@
         <div class="container">
           <header class="content-header">
             <h2>
-              Duco Mining servers
+                Discord Bot Hosting
             </h2>
             <div class="tab-group tab-group-switch-style">
               <ul>
@@ -54,20 +54,21 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://github.com/revoxhere/duino-coin/raw/master/Resources/WebMiner.png" alt="" height="64px">
+                  <img src="https://cdn.galactiq.net/images/game-icons/discord.svg" alt="" height="64px">
                   <h4 style="margin-top: 20px">
-                    Web Miner 
+                    Discord 1
                   </h4>
-                  <p>DUCOMR1<br /></p>
+                  <p>DCBOT1<br /></p>
                 </div>
                 <div class="product-price">
-                  ᕲ{{ $root.$children[0].floatPriceToString(5.00)
+                  ᕲ{{ $root.$children[0].floatPriceToString(1.00)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>1</strong> CPU core</li>
-                    <li><strong>3.00</strong> MH/s</li>
+                    <li><strong>0.5</strong> CPU cores</li>
+                    <li><strong>128MB</strong> RAM</li>
+                    <li><strong>1GB</strong> Disk Space</li>
                   </ul>
                 </div>
                 <div class="product-order">
@@ -84,7 +85,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://github.com/revoxhere/duino-coin/raw/master/Resources/PCMiner.png" alt="" height="64px">
+                  <img src="https://cdn.galactiq.net/images/game-icons/discord.svg" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     PC Miner
                   </h4>
@@ -114,7 +115,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://github.com/revoxhere/duino-coin/raw/master/Resources/AVRMiner.png" alt="" height="64px">
+                  <img src="https://cdn.galactiq.net/images/game-icons/discord.svg" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     AVR Miner
                   </h4>
@@ -149,7 +150,7 @@
   
   <style scoped>
   .content-gamebanner {
-    background: url(https://wallet.duinocoin.com/img/yenn-sea-1.jpg) center center no-repeat;
+    background: url(https://cdn.galactiq.net/images/game-backdrops/discord.png) center center no-repeat;
     background-size: cover;
     height: 250px;
     color: white;

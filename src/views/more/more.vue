@@ -10,84 +10,36 @@
         </header>
         <div class="column-row align-center-bottom">
           <div
-            class="column-33 gamebg gamebg-database"
+            class="column-33 gamebg gamebg-pool"
+            @click="open('/pages/pool-hosting')"
           >
             <div class="bluebg"></div>
             <div class="colum-game-content">
-              <div class="content-game-title">Databases (Coming Soon)</div>
+              <div class="content-game-title">Pool Hosting</div>
               <div class="content-game-subtitle">
               </div>
             </div>
           </div>
 
           <div
-            class="column-33 gamebg gamebg-baremetal"
-            @click="open('/contact/bare-metal')"
+            class="column-33 gamebg gamebg-dedicated"
+            @click="open('/pages/dedicated-miner')"
           >
             <div class="bluebg"></div>
             <div class="colum-game-content">
-              <div class="content-game-title">Dedicated Servers</div>
+              <div class="content-game-title">Dedicated Miners</div>
               <div class="content-game-subtitle">
               </div>
             </div>
           </div>
 
           <div
-            class="column-33 gamebg gamebg-storage"
+            class="column-33 gamebg gamebg-import"
+            @click="open('/pages/server-import')"
           >
             <div class="bluebg"></div>
             <div class="colum-game-content">
-              <div class="content-game-title">Cloud Storage (Coming Soon)</div>
-              <div class="content-game-subtitle">
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="column-row align-center-bottom">
-          <div
-            class="column-33 gamebg gamebg-apps"
-          >
-            <div class="bluebg"></div>
-            <div class="colum-game-content">
-              <div class="content-game-title">Cloud Apps (Coming Soon)</div>
-              <div class="content-game-subtitle">
-              </div>
-            </div>
-          </div>
-
-          <div
-            class="column-33 gamebg gamebg-duinocloud"
-            @click="open('/hosting/duino')"
-          >
-            <div class="bluebg"></div>
-            <div class="colum-game-content">
-              <div class="content-game-title">Duino Cloud</div>
-              <div class="content-game-subtitle">
-              </div>
-            </div>
-          </div>
-
-          <div
-            class="column-33 gamebg gamebg-owncast"
-          >
-            <div class="bluebg"></div>
-            <div class="colum-game-content">
-              <div class="content-game-title">OwnCast (Coming Soon)</div>
-              <div class="content-game-subtitle">
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="column-row align-center-bottom">
-          <div
-            class="column-33 gamebg gamebg-auctions"
-            @click="open('/hosting/auctions')"
-          >
-            <div class="bluebg"></div>
-            <div class="colum-game-content">
-              <div class="content-game-title">Auctions</div>
+              <div class="content-game-title">Server Import</div>
               <div class="content-game-subtitle">
               </div>
             </div>
@@ -111,29 +63,14 @@ export default {
 </script>
 
 <style scoped>
-.gamebg-discord {
-  background: url(https://cdn.galactiq.net/images/game-banners/discord.png) center center no-repeat;
+.gamebg-pool {
+  background: url(https://assets.theedgemarkets.com/Bitcoin%20_20210902171420_bloomberg_5.jpg?RfxsYeSJbMgNbnCJBWNFSWYEkfKsSfie) center center no-repeat;
 }
-.gamebg-database {
-  background: url(https://cdn.galactiq.net/images/game-banners/database.png) center center no-repeat;
+.gamebg-dedicated {
+  background: url(https://www.hetzner.com/assets/Uploads/seasonspecial-spring-dark-big-matrix.jpg) center center no-repeat;
 }
-.gamebg-storage {
-  background: url(https://cdn.galactiq.net/images/game-banners/cloud-storage.png) center center no-repeat;
-}
-.gamebg-apps {
-  background: url(https://cdn.galactiq.net/images/game-banners/app.png) center center no-repeat;
-}
-.gamebg-auctions {
-  background: url(https://cdn.galactiq.net/images/game-banners/auctions.png) center center no-repeat;
-}
-.gamebg-owncast {
-  background: url(https://cdn.galactiq.net/images/game-banners/owncast.png) center bottom no-repeat;
-}
-.gamebg-baremetal {
-  background: url(https://cdn.galactiq.net/images/game-banners/dedicated-server-bg.jpg) center bottom no-repeat;
-}
-.gamebg-duinocloud {
-  background: url(https://cdn.galactiq.net/images/game-banners/duino1.avif) center center no-repeat;
+.gamebg-import {
+  background: url(https://s3.us-east-2.amazonaws.com/networkbuilders-cdn/inb_technical-spotlight-2112.jpg) center center no-repeat;
 }
 .gamebg {
   padding: 0px;

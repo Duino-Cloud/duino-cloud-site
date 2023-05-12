@@ -36,7 +36,7 @@
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>2x</strong> Intel® Xeon® E5620</li>
+                    <li><strong>1x</strong> Intel® Xeon® X5670</li>
                     <li><strong>DDR3</strong> RAM</li>
                   </ul>
                   <ul>

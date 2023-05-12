@@ -16,6 +16,12 @@
               <router-link to="/hosting/duino">DUCO Mining</router-link>
             </li>
             <li>
+              <router-link to="/hosting/more">More</router-link>
+            </li>
+            <!--<li>
+              <router-link to="/hosting/discord">Discord Bots</router-link>
+            </li>-->
+            <li>
               <a style="cursor: pointer">DUCO CLOUD</a>
               <ul>
                 <li>
@@ -24,7 +30,7 @@
                 <li>
                   <router-link to="/team">Team</router-link>
                 </li>
-              </ul>                          
+              </ul>                 
             </li>
             <li>
               <a class="button button-secondary" target="" href="/login">
@@ -42,6 +48,11 @@
             <li>
               <a href="https://discord.gg/MVaJW8rqmH" target="_blank">
                 <i class="fab fa-discord icon-left"></i>Join Discord Server</a
+              >
+            </li>
+            <li>
+              <a href="https://ko-fi.com/pengucc" target="_blank">
+                <i class="fa-solid fa-circle-dollar-to-slot icon-left"></i>Donate</a
               >
             </li>
           </ul>
