@@ -16,6 +16,9 @@
               <router-link to="/hosting/duino">DUCO Mining</router-link>
             </li>
             <li>
+              <router-link to="/store/test">Test Store</router-link>
+            </li>
+            <li>
               <router-link to="/hosting/more">More</router-link>
             </li>
             <!--<li>

@@ -10,6 +10,12 @@ const routes = [
     name: "Home",
     component: Home,
   },  
+  //@ Store
+  {
+    path: "/store/test",
+    name: "Test Store",
+    component: () => import("../views/store/test.vue"),
+  },
   //@ Cloud
   {
     path: "/hosting/duino/",

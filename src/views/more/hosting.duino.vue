@@ -73,7 +73,7 @@
                 <div class="product-order">
                   <a
                     class="button button-secondary"
-                    href="https://discord.gg/MVaJW8rqmH"
+                    href="https://console.ducocloud.com"
                     target="_blank"
                   >
                     <i class="fas fa-shopping-cart icon-left"></i>Order Now
@@ -103,7 +103,7 @@
                 <div class="product-order">
                   <a
                     class="button button-secondary"
-                    href="https://discord.gg/MVaJW8rqmH"
+                    href="https://console.ducocloud.com"
                     target="_blank"
                   >
                     <i class="fas fa-shopping-cart icon-left"></i>Order Now
@@ -133,7 +133,7 @@
                 <div class="product-order">
                   <a
                     class="button button-secondary"
-                    href="https://discord.gg/MVaJW8rqmH"
+                    href="https://console.ducocloud.com"
                     target="_blank"
                   >
                     <i class="fas fa-shopping-cart icon-left"></i>Order Now
