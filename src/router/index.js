@@ -23,6 +23,11 @@ const routes = [
     component: () => import("../views/more/hosting.duino.vue"),
   },
   {
+    path: "/services/jellyfin",
+    name: "Jellyfin",
+    component: () => import("../views/services/jellyfin.vue"),
+  },
+  {
     path: "/hosting/more/",
     name: "More",
     component: () => import("../views/more/more.vue"),

@@ -45,6 +45,20 @@
             </div>
           </div>
         </div>
+
+        <div class="column-row align-center-bottom">
+          <div
+            class="column-33 gamebg gamebg-jellyfin"
+            @click="open('/services/jellyfin')"
+          >
+            <div class="bluebg"></div>
+            <div class="colum-game-content">
+              <div class="content-game-title">Jellyfin</div>
+              <div class="content-game-subtitle">
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
   </div>
@@ -71,6 +85,9 @@ export default {
 }
 .gamebg-import {
   background: url(https://s3.us-east-2.amazonaws.com/networkbuilders-cdn/inb_technical-spotlight-2112.jpg) center center no-repeat;
+}
+.gamebg-jellyfin {
+  background: url(https://shotdeck.com/assets/images/shotdeck_video_3.jpg) center center no-repeat;
 }
 .gamebg {
   padding: 0px;
