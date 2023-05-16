@@ -48,6 +48,18 @@
 
         <div class="column-row align-center-bottom">
           <div
+            class="column-33 gamebg gamebg-contribute"
+            @click="open('/pages/sell-hardware')"
+          >
+            <div class="bluebg"></div>
+            <div class="colum-game-content">
+              <div class="content-game-title">Sell Hardware</div>
+              <div class="content-game-subtitle">
+              </div>
+            </div>
+          </div>
+
+          <div
             class="column-33 gamebg gamebg-jellyfin"
             @click="open('/services/jellyfin')"
           >
@@ -88,6 +100,9 @@ export default {
 }
 .gamebg-jellyfin {
   background: url(https://shotdeck.com/assets/images/shotdeck_video_3.jpg) center center no-repeat;
+}
+.gamebg-contribute {
+  background: url(https://d3smn0u2zr7yfv.cloudfront.net/uploads/article/main_image/103/primary_open-source-head2__1_.png) center center no-repeat;
 }
 .gamebg {
   padding: 0px;
