@@ -239,7 +239,7 @@ export default {
   box-shadow: 1px 5px 5px #0077B6;
 }
 table caption {
-  background-color: #059669 !important;
+  background-color: #00B4D8 !important;
 }
 table {
   border-color: #131313;
