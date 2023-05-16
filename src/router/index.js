@@ -117,7 +117,7 @@ const routes = [
     name: "Partnerships",
     component: () => import("../views/redirects/partners.vue")
   },
-  //@ Login
+  //@ Pages
   {
     path: "/pages/pool-hosting",
     name: "Pool Hosting",
@@ -132,6 +132,11 @@ const routes = [
     path: "/pages/dedicated-miner",
     name: "Dedicated Miner",
     component: () => import("../views/pages/dedicated-miner.vue")
+  },
+  {
+    path: "/pages/sell-hardware",
+    name: "Sell Hardware",
+    component: () => import("../views/services/sell-power.vue")
   },
   //@ Errors
   {
