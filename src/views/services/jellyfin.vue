@@ -114,6 +114,23 @@
           </div>
         </div>
       </section>
+      <section class="content-row content-row-gray">
+      <div class="container">
+        <div>
+          <table>
+            <caption>
+              Jellyfin Addons
+            </caption>
+            <tbody>
+              <tr>
+                <td>Additional user session (max 5)</td>
+                <td>ᕲ3.00/month</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
     </div>
   </template>
   
