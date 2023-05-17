@@ -128,6 +128,11 @@ const routes = [
     name: "Partnerships",
     component: () => import("../views/redirects/partners.vue")
   },
+  {
+    path: "/github",
+    name: "GitHub",
+    component: () => import("../views/redirects/github.vue")
+  },
   //@ Pages
   {
     path: "/pages/pool-hosting",
