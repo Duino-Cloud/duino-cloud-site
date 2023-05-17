@@ -65,7 +65,7 @@
             Our Products
           </h2>
         </header>
-          <div class="column-row align-center-bottom">
+        <div class="column-row align-center-bottom">
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
@@ -76,13 +76,13 @@
                   <p>DUCOMR1<br /></p>
                 </div>
                 <div class="product-price">
-                  ᕲ{{ $root.$children[0].floatPriceToString(5.00)
+                  ᕲ{{ $root.$children[0].floatPriceToString(2.00)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>1</strong> CPU core</li>
-                    <li><strong>3.00</strong> MH/s</li>
+                    <li><strong>0.5</strong> CPU cores</li>
+                    <li><strong>1.00</strong> MH/s</li>
                   </ul>
                 </div>
                 <div class="product-order">
@@ -111,8 +111,8 @@
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>2</strong> CPU cores</li>
-                    <li><strong>7.00</strong> MH/s</li>
+                    <li><strong>1</strong> CPU cores</li>
+                    <li><strong>3.00</strong> MH/s</li>
                   </ul>
                 </div>
                 <div class="product-order">
@@ -141,8 +141,8 @@
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>4</strong> CPU cores</li>
-                    <li><strong>15</strong> MH/s</li>
+                    <li><strong>2</strong> CPU cores</li>
+                    <li><strong>7.00</strong> MH/s</li>
                   </ul>
                 </div>
                 <div class="product-order">

@@ -1,13 +1,13 @@
 <template>
     <div>
-      <title>Duco Cloud | Duino</title>
+      <title>Duco Cloud | Miners</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header
             class="content-header content-gamename content-header-small content-header-uppercase"
           >
             <h1>
-              Duino Cloud
+              Duco Cloud
             </h1>
             <p>
               Host your Duco Miner on our hardware for an easier mining experience!
@@ -61,19 +61,19 @@
                   <p>DUCOMR1<br /></p>
                 </div>
                 <div class="product-price">
-                  ᕲ{{ $root.$children[0].floatPriceToString(5.00)
+                  ᕲ{{ $root.$children[0].floatPriceToString(2.00)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>1</strong> CPU core</li>
-                    <li><strong>3.00</strong> MH/s</li>
+                    <li><strong>0.5</strong> CPU cores</li>
+                    <li><strong>1.00</strong> MH/s</li>
                   </ul>
                 </div>
                 <div class="product-order">
                   <a
                     class="button button-secondary"
-                    href="https://console.ducocloud.com"
+                    href="https://discord.gg/MVaJW8rqmH"
                     target="_blank"
                   >
                     <i class="fas fa-shopping-cart icon-left"></i>Order Now
@@ -96,14 +96,14 @@
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>2</strong> CPU cores</li>
-                    <li><strong>7.00</strong> MH/s</li>
+                    <li><strong>1</strong> CPU cores</li>
+                    <li><strong>3.00</strong> MH/s</li>
                   </ul>
                 </div>
                 <div class="product-order">
                   <a
                     class="button button-secondary"
-                    href="https://console.ducocloud.com"
+                    href="https://discord.gg/MVaJW8rqmH"
                     target="_blank"
                   >
                     <i class="fas fa-shopping-cart icon-left"></i>Order Now
@@ -126,14 +126,14 @@
                 </div>
                 <div class="product-features">
                   <ul>
-                    <li><strong>4</strong> CPU cores</li>
-                    <li><strong>15</strong> MH/s</li>
+                    <li><strong>2</strong> CPU cores</li>
+                    <li><strong>7.00</strong> MH/s</li>
                   </ul>
                 </div>
                 <div class="product-order">
                   <a
                     class="button button-secondary"
-                    href="https://console.ducocloud.com"
+                    href="https://discord.gg/MVaJW8rqmH"
                     target="_blank"
                   >
                     <i class="fas fa-shopping-cart icon-left"></i>Order Now
