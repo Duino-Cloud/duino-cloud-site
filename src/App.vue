@@ -16,7 +16,7 @@
               <router-link to="/hosting/duino">DUCO Mining</router-link>
             </li>
             <li>
-              <router-link to="/hosting/minecraft">Minecraft Hosting</router-link>
+              <router-link to="/marketplace">MarketPlace</router-link>
             </li>
             <li>
               <router-link to="/store/test">Test Store</router-link>
@@ -35,6 +35,9 @@
                 </li>            
                 <li>
                   <router-link to="/team">Team</router-link>
+                </li>
+                <li>
+                  <router-link to="/hosting/minecraft">Minecraft Hosting</router-link>
                 </li>
               </ul>                 
             </li>

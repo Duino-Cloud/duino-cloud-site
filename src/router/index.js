@@ -20,7 +20,7 @@ const routes = [
   {
     path: "/hosting/duino/",
     name: "Duino",
-    component: () => import("../views/more/hosting.duino.vue"),
+    component: () => import("../views/hosting/hosting.duino.vue"),
   },
   {
     path: "/hosting/minecraft/",
@@ -37,11 +37,17 @@ const routes = [
     name: "More",
     component: () => import("../views/more/more.vue"),
   },
-  //{
-    //path: "/hosting/discord/",
-    //name: "Discord Bot",
-    //component: () => import("../views/hosting/hosting.discord.vue"),
-  //},
+  //@ Marketplace
+  {
+    path: "/marketplace",
+    name: "Marketplace",
+    component: () => import("../views/marketplace/marketplace.vue"),
+  },
+  {
+    path: "/marketplace/example",
+    name: "Example Market",
+    component: () => import("../views/marketplace/markets/example.vue"),
+  },
   //@ ducocloud
   {
     path: "/terms-of-service",
