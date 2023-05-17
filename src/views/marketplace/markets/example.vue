@@ -7,7 +7,7 @@
             <h2>
                 <!--<li> DO NOT CHANGE </li>-->
               <img
-                src="https://ducocloud.com/assets/ducomarketplace.png"
+                src="https://ducocloud.com/img/ducomarketplace.png"
                 height="96px"
               />
                 <!--<li> DO NOT CHANGE </li>-->
@@ -42,7 +42,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://ducocloud.com/assets/marketplace/people/rachel.png" alt="" height="64px">
+                  <img src="https://ducocloud.com/img/marketplace/people/rachel.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     Rachel
                   </h4>
