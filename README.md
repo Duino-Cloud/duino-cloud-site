@@ -9,7 +9,7 @@
 
 <h1>
   <a href="https://duinocoin.com">
-    <img src="https://ducocloud.com/assets/ducocloud.png" width="430px" />
+    <img src="https://ducocloud.com/img/ducocloud.png" width="430px" />
   </a>
   <br>
 <br>
