@@ -23,6 +23,11 @@ const routes = [
     component: () => import("../views/more/hosting.duino.vue"),
   },
   {
+    path: "/hosting/minecraft/",
+    name: "Minecraft",
+    component: () => import("../views/hosting/hosting.minecraft.vue"),
+  },
+  {
     path: "/services/jellyfin",
     name: "Jellyfin",
     component: () => import("../views/services/jellyfin.vue"),
