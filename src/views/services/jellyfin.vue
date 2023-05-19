@@ -67,7 +67,7 @@
                   <ul>
                     <li><strong>Features</strong></li>
                     <li>Jellyfin Access</li>
-                    <lo>ㅤ</lo>
+                    <lo>Request Content</lo>
                   </ul>
                 </div>
                 <div class="product-order">
