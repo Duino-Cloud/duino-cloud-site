@@ -81,36 +81,6 @@
                 </div>
               </div>
             </div>
-            <div class="column-33">
-              <div class="product-box">
-                <div class="product-header">
-                  <img src="https://cdn.galactiq.net/duinocloud/cdn.duinocloud.com/services/jellyfin/request-jellyfin.png" alt="" height="64px">
-                  <h4 style="margin-top: 20px">
-                    Request
-                  </h4>
-                </div>
-                <div class="product-price">
-                  ᕲ{{ $root.$children[0].floatPriceToString(250.00)
-                  }}<span class="term">/ month</span>
-                </div>
-                <div class="product-features">
-                  <ul>
-                    <li><strong>Features</strong></li>
-                    <li>Jellyfin Access</li>
-                    <li>Make content requests</li>
-                  </ul>
-                </div>
-                <div class="product-order">
-                  <a
-                    class="button button-secondary"
-                    href="https://discord.gg/MVaJW8rqmH"
-                    target="_blank"
-                  >
-                    <i class="fas fa-shopping-cart icon-left"></i>Order Now
-                  </a>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </section>
