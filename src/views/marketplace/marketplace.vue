@@ -10,6 +10,20 @@
           </header>
           <div class="column-row align-center-bottom">
             <div
+              class="column-33 gamebg gamebg-rules"
+              @click="open('/marketplace-rules')"
+            >
+              <div class="bluebg"></div>
+              <div class="colum-game-content">
+                <div class="content-game-title">Marketplace Rules</div>
+                <div class="content-game-subtitle">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="column-row align-center-bottom">
+            <div
               class="column-33 gamebg gamebg-example"
               @click="open('/marketplace/example')"
             >
@@ -39,6 +53,9 @@
   </script>
   
   <style scoped>
+  .gamebg-rules {
+    background: url(https://ducocloud.com/img/curved0.jpg) center center no-repeat;
+  }
   .gamebg-example {
     background: url(https://assets.kpmg.com/is/image/kpmg/woman-working-on-computer-market-banner:cq5dam.web.1400.350) center center no-repeat;
   }

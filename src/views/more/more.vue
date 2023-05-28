@@ -22,18 +22,6 @@
           </div>
 
           <div
-            class="column-33 gamebg gamebg-dedicated"
-            @click="open('/pages/dedicated-miner')"
-          >
-            <div class="bluebg"></div>
-            <div class="colum-game-content">
-              <div class="content-game-title">Dedicated Miners</div>
-              <div class="content-game-subtitle">
-              </div>
-            </div>
-          </div>
-
-          <div
             class="column-33 gamebg gamebg-import"
             @click="open('/pages/server-import')"
           >

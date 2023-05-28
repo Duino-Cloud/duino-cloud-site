@@ -54,7 +54,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://ducocloud.com/assets/images/minecraft.png" alt="" height="64px">
+                  <img src="https://ducocloud.com/img/products/minecraft.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     Minecraft
                   </h4>

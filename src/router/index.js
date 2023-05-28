@@ -44,11 +44,16 @@ const routes = [
     component: () => import("../views/marketplace/marketplace.vue"),
   },
   {
+    path: "/marketplace-rules",
+    name: "Marketplace Rules",
+    component: () => import("../views/marketplace/marketplace-rules.vue"),
+  },
+  {
     path: "/marketplace/example",
     name: "Example Market",
     component: () => import("../views/marketplace/markets/example.vue"),
   },
-  //@ ducocloud
+  //@ DucoCloud
   {
     path: "/terms-of-service",
     name: "Terms of Service",

@@ -25,15 +25,18 @@
             </header>
   
             <div class="blog-article-content">
-              <p>
-                I am Selling singing lessons for ᕲ80.
-              </p>
-              <p>
-                Monday through Friday, 11am to 2pm.
-              </p>
-              <p>
-                Contact me on Discord: Rachel#0000
-              </p>
+            <h3>
+              <strong>Price: ᕲ80</strong>
+            </h3>
+            <h3>
+              <strong>Time: Friday 11am -> 2pm</strong>
+            </h3>
+            <h3>
+              <strong>Discord: Rachel#0000</strong>
+            </h3>
+            <h3>
+              <strong>Descrow ID: JSFK12</strong>
+            </h3>
               <p></p>
             </div>
           </article>
