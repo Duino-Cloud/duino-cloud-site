@@ -106,6 +106,11 @@ const routes = [
     name: "US Hardware",
     component: () => import("../views/hardware/duco-hardware/us.vue"),
   },
+  {
+    path: "/hardware/duco-hardware/de",
+    name: "DE Hardware",
+    component: () => import("../views/hardware/duco-hardware/de.vue"),
+  },
   //@ Partners
   {
     path: "/partners",

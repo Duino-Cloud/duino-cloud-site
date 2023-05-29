@@ -56,7 +56,71 @@
                 <div class="product-header">
                   <img src="https://ducocloud.com/img/products/minecraft.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
-                    Minecraft
+                    Minecraft 1
+                  </h4>
+                </div>
+                <div class="product-price">
+                  ᕲ{{ $root.$children[0].floatPriceToString(5.00)
+                  }}<span class="term">/ month</span>
+                </div>
+                <div class="product-features">
+                  <ul>
+                    <li><strong>1</strong> CPU cores</li>
+                    <li><strong>512 MB</strong> RAM</li>
+                    <li><strong>5 GB</strong> Storage</li>
+                    <li><strong>1</strong> Backup</li>
+                  </ul>
+                </div>
+                <div class="product-order">
+                  <a
+                    class="button button-secondary"
+                    href="https://discord.gg/MVaJW8rqmH"
+                    target="_blank"
+                  >
+                    <i class="fas fa-shopping-cart icon-left"></i>Order Now
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="column-33">
+              <div class="product-box">
+                <div class="product-header">
+                  <img src="https://ducocloud.com/img/products/minecraft.png" alt="" height="64px">
+                  <h4 style="margin-top: 20px">
+                    Minecraft 2
+                  </h4>
+                </div>
+                <div class="product-price">
+                  ᕲ{{ $root.$children[0].floatPriceToString(40.00)
+                  }}<span class="term">/ month</span>
+                </div>
+                <div class="product-features">
+                  <ul>
+                    <li><strong>2</strong> CPU cores</li>
+                    <li><strong>2 GB</strong> RAM</li>
+                    <li><strong>∞ GB</strong> Storage</li>
+                    <li><strong>1</strong> Backup</li>
+                  </ul>
+                </div>
+                <div class="product-order">
+                  <a
+                    class="button button-secondary"
+                    href="https://discord.gg/MVaJW8rqmH"
+                    target="_blank"
+                  >
+                    <i class="fas fa-shopping-cart icon-left"></i>Order Now
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div class="column-33">
+              <div class="product-box">
+                <div class="product-header">
+                  <img src="https://ducocloud.com/img/products/minecraft.png" alt="" height="64px">
+                  <h4 style="margin-top: 20px">
+                    Minecraft 3
                   </h4>
                 </div>
                 <div class="product-price">
@@ -66,9 +130,43 @@
                 <div class="product-features">
                   <ul>
                     <li><strong>2</strong> CPU cores</li>
-                    <li><strong>5GB</strong> RAM</li>
+                    <li><strong>4GB</strong> RAM</li>
                     <li><strong>∞</strong> Storage</li>
-                    <li><strong>1</strong> Backup</li>
+                    <li><strong>2</strong> Backups</li>
+                  </ul>
+                </div>
+                <div class="product-order">
+                  <a
+                    class="button button-secondary"
+                    href="https://discord.gg/MVaJW8rqmH"
+                    target="_blank"
+                  >
+                    <i class="fas fa-shopping-cart icon-left"></i>Order Now
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="column-row align-center-bottom">
+            <div class="column-33">
+              <div class="product-box">
+                <div class="product-header">
+                  <img src="https://ducocloud.com/img/products/minecraft.png" alt="" height="64px">
+                  <h4 style="margin-top: 20px">
+                    Minecraft 4
+                  </h4>
+                </div>
+                <div class="product-price">
+                  ᕲ{{ $root.$children[0].floatPriceToString(120.00)
+                  }}<span class="term">/ month</span>
+                </div>
+                <div class="product-features">
+                  <ul>
+                    <li><strong>2</strong> CPU cores</li>
+                    <li><strong>6 GB</strong> RAM</li>
+                    <li><strong>∞ GB</strong> Storage</li>
+                    <li><strong>2</strong> Backups</li>
                   </ul>
                 </div>
                 <div class="product-order">

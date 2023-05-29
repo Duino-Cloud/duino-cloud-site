@@ -1,6 +1,6 @@
 <template>
     <div>
-      <title>Duco Cloud | US</title>
+      <title>Duco Cloud | DE</title>
       <section class="content-row content-gamebanner">
         <div class="container">
           <header
@@ -10,7 +10,7 @@
               Hardware
             </h1>
             <p>
-              This is the hardware list for all of our DUCO nodes in America
+              This is the hardware list for all of our DUCO nodes in Germany
             </p>
           </header>
         </div>
@@ -26,56 +26,16 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://cdn.galactiq.net/images/logos/intel.svg" alt="" height="64px">
-                  <h4 style="margin-top: 20px">
-                    Duco-1
-                  </h4>
-                  <small>Nevada (US)</small>
-                </div>
-                <div class="product-features">
-                  <ul>
-                    <li><strong>2x</strong> Intel® Xeon™ E5-2667 v2</li>
-                    <li><strong>DDR3</strong> RAM</li>
-                  </ul>
-                  <ul>
-                  </ul>
-                </div>
-              </div>
-            </div>
-  
-            <div class="column-33">
-              <div class="product-box">
-                <div class="product-header">
                   <img src="https://cdn.galactiq.net/images/logos/ampere.svg" alt="" height="64px">
                   <h4 style="margin-top: 20px">
-                    Duco-2
+                    Duco-4
                   </h4>
-                  <small>Virginia (US)</small>
+                  <small>Falkenstein (DE)</small>
                 </div>
                 <div class="product-features">
                   <ul>
                     <li><strong></strong> Ampere® Altra® Q80-30</li>
                     <li><strong>DDR4</strong> RAM</li>
-                  </ul>
-                  <ul>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-            <div class="column-33">
-              <div class="product-box">
-                <div class="product-header">
-                  <img src="https://cdn.galactiq.net/images/logos/intel.svg" alt="" height="64px">
-                  <h4 style="margin-top: 20px">
-                    Duco-3
-                  </h4>
-                  <small>Oklahoma (US)</small>
-                </div>
-                <div class="product-features">
-                  <ul>
-                    <li><strong></strong> Intel® Xeon™ X3460</li>
-                    <li><strong>DDR3</strong> RAM</li>
                   </ul>
                   <ul>
                   </ul>
