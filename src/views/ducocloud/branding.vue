@@ -52,6 +52,24 @@
                 </div>
               </div>
             </div>
+
+            <div class="column-33">
+              <div class="product-box">
+                <div class="product-header">
+                  <img src="https://ducocloud.com/img/other/color_wheel.png" alt="" width="100px" style="margin-top: calc((64px - 23.73px) / 2); margin-bottom: calc((64px - 23.73px) / 2)">
+                  <h4 style="margin-top: 20px">
+                    Color Palette
+                  </h4>
+                </div>
+                <div class="product-features">
+                  <ul>
+                    <a href="https://coolors.co/palette/f72585-b5179e-7209b7-560bad-480ca8-3a0ca3-3f37c9-4361ee-4895ef-4cc9f0">
+                      <button type="submit" style="width: 200px; background-color: #3A0CA3; border: #1F2937; color: #4CC9F0" >View</button>
+                    </a>
+                  </ul>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
