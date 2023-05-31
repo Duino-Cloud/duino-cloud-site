@@ -29,7 +29,7 @@
               <ul>
                 <li>
                   <router-link to="/hardware">Hardware</router-link>
-                </li>            
+                </li>     
                 <li>
                   <router-link to="/team">Team</router-link>
                 </li>
@@ -75,7 +75,7 @@
                 <img src="https://ducocloud.com/img/ducocloud.png" alt="" width="200px">
               </h5>
               <p>
-                DucoCloud has been providing Duco Mining hardware since 2023 and aims
+                Duco Cloud has been providing Duco Mining hardware since 2023 and aims
                 to allow people to purchase more and more products with DUCO.
               </p>
             </div>
@@ -88,6 +88,9 @@
                   <ul>
                     <li>
                       <router-link to="/github">GitHub</router-link>
+                    </li>
+                    <li>
+                      <router-link to="/branding">Branding</router-link>
                     </li>
                   </ul>
                 </div>

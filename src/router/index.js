@@ -74,6 +74,11 @@ const routes = [
     name: "Team",
     component: () => import("../views/ducocloud/team.vue"),
   },
+  {
+    path: "/branding",
+    name: "Branding",
+    component: () => import("../views/ducocloud/branding.vue"),
+  },
   //@ Login
   {
     path: "/login",
