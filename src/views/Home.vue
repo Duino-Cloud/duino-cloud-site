@@ -69,7 +69,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://github.com/revoxhere/duino-coin/raw/master/Resources/WebMiner.png" alt="" height="64px">
+                  <img src="https://ducocloud.com/img/products/workers/WebMiner.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     Web Miner 
                   </h4>
@@ -99,7 +99,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://github.com/revoxhere/duino-coin/raw/master/Resources/PCMiner.png" alt="" height="64px">
+                  <img src="https://ducocloud.com/img/products/workers/PCMiner.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     PC Miner
                   </h4>
@@ -129,7 +129,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://github.com/revoxhere/duino-coin/raw/master/Resources/AVRMiner.png" alt="" height="64px">
+                  <img src="https://ducocloud.com/img/products/workers/AVRMiner.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     AVR Miner
                   </h4>
