@@ -23,7 +23,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://cdn.crewcraft.gq/duino/duco-alt.png" alt="" height="64px">
+                  <img src="https://cdn.ducocloud.com/logos/duco-cloud-alt.png" alt="" height="64px">
                   <h4 style="margin-top: 20px">
                     Duco Cloud Team
                   </h4>
@@ -54,7 +54,7 @@
             <div class="column-33">
               <div class="product-box">
                 <div class="product-header">
-                  <img src="https://cdn.crewcraft.gq/duino/team/6ffac44305f42a9f49a227d217c7262c.webp" alt="" width="100px" style="margin-top: calc((64px - 23.73px) / 2); margin-bottom: calc((64px - 23.73px) / 2)">
+                  <img src="https://cdn.ducocloud.com/img/team/green.webp" alt="" width="100px" style="margin-top: calc((64px - 23.73px) / 2); margin-bottom: calc((64px - 23.73px) / 2)">
                   <h4 style="margin-top: 20px">
                     GreenBean
                   </h4>

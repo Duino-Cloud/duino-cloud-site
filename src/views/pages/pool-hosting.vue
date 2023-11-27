@@ -6,7 +6,7 @@
           <header class="content-header" style="margin-bottom: 0px">
             <h2>
               <img
-                src="https://cdn.crewcraft.gq/duino/duco-alt.png"
+                src="https://cdn.ducocloud.com/logos/duco-cloud-alt.png"
                 height="96px"
               />
             </h2>

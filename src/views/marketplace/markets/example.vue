@@ -7,7 +7,7 @@
             <h2>
                 <!--<li> DO NOT CHANGE </li>-->
               <img
-                src="https://ducocloud.com/img/ducomarketplace.png"
+                src="https://cdn.ducocloud.com/logos/ducomarketplace.png"
                 height="96px"
               />
                 <!--<li> DO NOT CHANGE </li>-->
