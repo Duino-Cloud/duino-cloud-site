@@ -64,6 +64,10 @@
                   ᕲ{{ $root.$children[0].floatPriceToString(2.50)
                   }}<span class="term">/ month</span>
                 </div>
+                <div class="product-price">
+                  Σ{{ $root.$children[0].floatPriceToString(1)
+                  }}<span class="term">/ month</span>
+                </div>
                 <div class="product-features">
                   <ul>
                     <li><strong>1</strong> CPU cores</li>
@@ -91,6 +95,10 @@
                 </div>
                 <div class="product-price">
                   ᕲ{{ $root.$children[0].floatPriceToString(25)
+                  }}<span class="term">/ month</span>
+                </div>
+                <div class="product-price">
+                  Σ{{ $root.$children[0].floatPriceToString(10)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-features">
