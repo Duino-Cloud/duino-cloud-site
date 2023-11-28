@@ -13,7 +13,7 @@
         <nav>
           <ul class="nav-primary">
             <li>
-              <router-link to="/hosting/duino">DUCO Mining</router-link>
+              <router-link to="/hosting/mining">Mining Hardware</router-link>
             </li>
             <li>
               <router-link to="/marketplace">MarketPlace</router-link>

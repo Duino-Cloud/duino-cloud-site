@@ -41,25 +41,6 @@
             </div>
           </div>
         </div>
-
-        <div class="column-33">
-            <div class="product-box">
-              <div class="product-header">
-                <img src="https://cdn.galactiq.net/images/flags/4x3/de.svg" alt="" width="100px" style="margin-top: calc((64px - 23.73px) / 2); margin-bottom: calc((64px - 23.73px) / 2)">
-                <h4 style="margin-top: 20px">
-                  Germany
-                </h4>
-              </div>
-              <div class="product-order">
-                  <a
-                    class="button button-secondary"
-                    href="/hardware/duco-hardware/de"
-                  >
-                    <i class=""></i>See Nodes
-                  </a>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
     </section>

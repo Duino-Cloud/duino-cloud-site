@@ -18,9 +18,19 @@ const routes = [
   },
   //@ Cloud
   {
+    path: "/hosting/mining/",
+    name: "Mining",
+    component: () => import("../views/hosting/mining.vue"),
+  },
+  {
     path: "/hosting/duino/",
     name: "Duino",
     component: () => import("../views/hosting/hosting.duino.vue"),
+  },
+  {
+    path: "/hosting/magi/",
+    name: "Magi",
+    component: () => import("../views/hosting/hosting.magi.vue"),
   },
   {
     path: "/hosting/minecraft/",
