@@ -39,6 +39,9 @@
               </ul>                 
             </li>
             <li>
+              <router-link to="/wiki">Wiki</router-link>
+            </li>
+            <li>
               <a class="button button-secondary" target="" href="/login">
               <i class="fa-solid fa-fingerprint icon-left"></i>Login</a>
             </li>

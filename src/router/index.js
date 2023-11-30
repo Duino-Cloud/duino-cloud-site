@@ -179,6 +179,17 @@ const routes = [
     name: "Sell Hardware",
     component: () => import("../views/services/sell-power.vue")
   },
+  //@ Wiki
+  {
+    path: "/wiki",
+    name: "Wiki",
+    component: () => import("../views/wiki/wiki.vue")
+  },
+  {
+    path: "/wiki/currencies",
+    name: "Currencies",
+    component: () => import("../views/wiki/currencies.vue")
+  },
   //@ Errors
   {
     path: "*",
