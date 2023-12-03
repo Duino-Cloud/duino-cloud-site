@@ -60,15 +60,15 @@
                   </h4>
                 </div>
                 <div class="product-price">
-                  ᕲ{{ $root.$children[0].floatPriceToString(150.00)
+                  ᕲ{{ $root.$children[0].floatPriceToString(500.00)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-price">
-                  Σ{{ $root.$children[0].floatPriceToString(60)
+                  Σ{{ $root.$children[0].floatPriceToString(100)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-price">
-                  Ð{{ $root.$children[0].floatPriceToString(0.06)
+                  Ð{{ $root.$children[0].floatPriceToString(11)
                   }}<span class="term">/ month</span>
                 </div>
                 <div class="product-features">
@@ -92,23 +92,6 @@
           </div>
         </div>
       </section>
-      <section class="content-row content-row-gray">
-      <div class="container">
-        <div>
-          <table>
-            <caption>
-              Jellyfin Addons
-            </caption>
-            <tbody>
-              <tr>
-                <td>Additional user session (max 5)</td>
-                <td>ᕲ3.00/month</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-    </section>
     </div>
   </template>
   
